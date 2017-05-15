@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CustomDialog_up_to_down.iml" filepath="$PROJECT_DIR$/CustomDialog_up_to_down.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customdialog_up_to_down/customdialog_up_to_down.iml" filepath="$PROJECT_DIR$/customdialog_up_to_down/customdialog_up_to_down.iml" />
     </modules>
   </component>
 </project>
