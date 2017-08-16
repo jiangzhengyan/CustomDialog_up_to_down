@@ -49,6 +49,7 @@ public class MainActivity extends AppCompatActivity {
     private long startTime = 0;
     private long endTime = 0;
 
+
     private void showDateDialog(int type) {
         if (type == 1)
             which = "start_time";
